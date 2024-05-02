@@ -57,8 +57,8 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
 
-<h1 align="center">👋 I'm Chris :)</h1>
-<h3 align="center">寧敎我負天下人,休敎天下人負我</h3>
+<h1 align="center">👋 I'm Namjun :)</h1>
+<h3 align="center">aaa</h3>
 
 - 🔭 현재 PocketBase와 Next Js를 이용한 사이드 프로젝트를 "Touch Flow"를 개발중에 있습니다.
 
@@ -66,7 +66,7 @@
 
 - 💬 I'm a teapot 418🫖
 
-- 📫 contact +82-10-6352-2968
+- 📫 contact +82-10-3605-5503
 
 - ⚡ 재미있는 사실 : 부천시 중동로
 
