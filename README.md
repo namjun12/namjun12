@@ -58,7 +58,7 @@
 ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
 
 <h1 align="center">👋 I'm Namjun :)</h1>
-<h3 align="center">aaa</h3>
+<h3 align="center">안녕하세요!</h3>
 
 - 🔭 현재 PocketBase와 Next Js를 이용한 사이드 프로젝트를 "Touch Flow"를 개발중에 있습니다.
 
