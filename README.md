@@ -27,8 +27,6 @@
 
 <br>
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=devscarycat&theme=codeSTACKr&show_icons=true&locale=kr&layout=compact" alt="DevSacryCat"/>
-<img src="https://github-readme-stats.vercel.app/api?username=devscarycat&theme=codeSTACKr&show_icons=true&locale=kr" alt ="DevSacryCat" />
 
 <h3 align="right">Connect with me:</h3>
 <p align="right">
